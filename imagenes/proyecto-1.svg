@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 1000" width="1600" height="1000">
+  <!-- Imagen de relleno (ejemplo): reemplázala con una foto de tu proyecto. -->
+  <rect width="1600" height="1000" fill="#ffffff"/>
+  <g fill="none" stroke="#161616" stroke-width="6">
+    <path d="M60 740H1300"/>
+    <path d="M120 772h110M300 772h110M480 772h110M660 772h110M840 772h110M1020 772h110" stroke="#9a9a9a" stroke-width="4"/>
+    <rect x="300" y="470" width="720" height="150"/>
+    <path d="M300 530h720" stroke-width="3"/>
+    <circle cx="420" cy="660" r="80"/><circle cx="420" cy="660" r="24"/>
+    <circle cx="900" cy="660" r="80"/><circle cx="900" cy="660" r="24"/>
+    <path d="M660 470V330"/>
+    <rect x="600" y="270" width="120" height="60"/>
+    <path d="M1020 510l70-32v64z"/>
+    <path d="M720 300 1180 200M720 300 1200 300M720 300 1180 400M600 300 140 200M600 300 120 300M600 300 140 400" stroke="#9a9a9a" stroke-width="3" stroke-dasharray="18 12"/>
+  </g>
+  <g stroke="#161616" stroke-width="3" fill="#161616">
+    <path d="M300 860V800M1020 860V800M300 840H1020" fill="none"/>
+    <path d="M300 840l26-9v18zM1020 840l-26-9v18z"/>
+    <path d="M1380 740V270M1366 740h28M1366 270h28" fill="none"/>
+    <path d="M1380 270l-9 26h18zM1380 740l-9-26h18z"/>
+  </g>
+  <g font-family="Mona Sans, Helvetica, Arial, sans-serif" font-weight="700" fill="#161616" font-size="44">
+    <text x="660" y="910" text-anchor="middle">820 mm</text>
+    <text x="1410" y="520">640 mm</text>
+    <text x="760" y="248">LiDAR 2D</text>
+    <text x="1110" y="470">Cámara</text>
+    <text x="60" y="100" font-size="52">Vista lateral · robot de monitoreo</text>
+  </g>
+  <text x="60" y="975" font-family="Mona Sans, Helvetica, Arial, sans-serif" font-size="36" font-weight="600" fill="#5d5d5d">Imagen de ejemplo · reemplázala · 1600 × 1000</text>
+</svg>

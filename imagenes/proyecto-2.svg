@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 1000" width="1600" height="1000">
+  <!-- Imagen de relleno (ejemplo): reemplázala con una foto o gráfico de tu proyecto. -->
+  <rect width="1600" height="1000" fill="#ffffff"/>
+  <g stroke="#dedede" stroke-width="3">
+    <path d="M500 150V750M800 150V750M1100 150V750M1400 150V750M200 300H1540M200 450H1540M200 600H1540"/>
+  </g>
+  <rect x="200" y="150" width="1340" height="600" fill="none" stroke="#161616" stroke-width="5"/>
+  <path d="M200 340H1540" stroke="#161616" stroke-width="5" stroke-dasharray="26 16"/>
+  <path fill="none" stroke="#161616" stroke-width="6" stroke-linejoin="round"
+    d="M200 650 260 634 320 658 380 628 440 650 500 622 560 646 620 614 680 640 740 606 800 632 860 596 920 622 980 578 1040 598 1100 530 1160 548 1220 440 1280 460 1340 330 1400 290 1460 230 1520 200"/>
+  <circle cx="1345" cy="340" r="20" fill="#ffffff" stroke="#161616" stroke-width="6"/>
+  <g font-family="Mona Sans, Helvetica, Arial, sans-serif" fill="#161616" font-size="44">
+    <text x="1180" y="226" font-weight="700" text-anchor="end">Alerta: 3 días antes</text>
+    <text x="230" y="322" font-weight="700">Umbral</text>
+    <g text-anchor="middle" font-size="40"><text x="200" y="806">0</text><text x="500" y="806">10</text><text x="800" y="806">20</text><text x="1100" y="806">30</text><text x="1400" y="806">40</text></g>
+    <g text-anchor="end" font-size="40"><text x="178" y="764">0</text><text x="178" y="464">4</text><text x="178" y="164">8</text></g>
+    <text x="870" y="870" font-weight="700" text-anchor="middle">Tiempo (días)</text>
+    <text x="80" y="450" font-weight="700" text-anchor="middle" transform="rotate(-90 80 450)">mm/s RMS</text>
+    <text x="200" y="100" font-size="52" font-weight="700">Vibración de un motor antes de la falla</text>
+  </g>
+  <text x="60" y="975" font-family="Mona Sans, Helvetica, Arial, sans-serif" font-size="36" font-weight="600" fill="#5d5d5d">Imagen de ejemplo · reemplázala · 1600 × 1000</text>
+</svg>
